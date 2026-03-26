@@ -1,16 +1,22 @@
-## Hi there 👋
+# Naoufal Badou
 
-<!--
-**voidnside/voidnside** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Technical Support Engineer with 4+ years of experience handling real-world user issues across international markets.
 
-Here are some ideas to get you started:
+I focus on:
+- API behavior and debugging
+- Logging and error handling
+- Support systems and workflows
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+
+- **SupportOps** — Ticketing & SLA system  
+- **SaaS Boilerplate** — Scalable Next.js architecture  
+- **IncidentLab** — API failure simulation system  
+
+## Tech Stack
+
+Node.js, TypeScript, REST APIs, React, Next.js, PostgreSQL, MongoDB
+
+## Focus
+
+Building systems that simulate and solve real production issues.
