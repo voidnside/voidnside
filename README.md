@@ -1,23 +1,26 @@
 # Naoufal Badou
 
-Technical Support Engineer with 4+ years of experience handling real-world user issues across international markets.
+Technical Support Engineer focused on API debugging,
+failure analysis, and structured issue escalation.
 
-I focus on:
+I diagnose system failures before escalating — causes, not symptoms.
 
-- API behavior and debugging
-- Logging and error handling
-- Support systems and workflows
+---
 
 ## Projects
 
-- **TicketFlow** — Ticketing & SLA system
-- **SaaS Engine** — Scalable Next.js architecture
-- **FailTrace** — API failure simulation system
+**FailTrace** — Simulates real API failures (401, 500, timeouts, rate limits) with structured JSON logging  
+**TicketFlow** — Ticket lifecycle and SLA tracking system built as a REST API  
+**SupportDocs** — Troubleshooting runbooks and bug report templates for real production scenarios
 
-## Tech Stack
+---
 
-Node.js, Bun, TypeScript, REST APIs, React, Next.js, PostgreSQL, MongoDB
+## Stack
 
-## Focus
+Node.js · TypeScript · REST APIs · Git
 
-Building systems that simulate and solve real production issues.
+---
+
+## Languages
+
+Arabic · French · English · Italian
