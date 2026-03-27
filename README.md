@@ -20,4 +20,4 @@ Node.js · TypeScript · REST APIs · Debugging · Structured Logging · Error H
 
 ## Approach
 
-I build systems that simulate real production issues to improve debugging, issue resolution, and communication between support and engineering.
+I build systems that simulate real production issues to improve debugging, incident handling, and communication between support and engineering.
