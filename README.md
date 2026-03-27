@@ -1,20 +1,23 @@
 # Naoufal Badou
 
-Technical Support Engineer with 4+ years across international environments.
+Technical Support Engineer with experience diagnosing API failures and analyzing system behavior in real-world environments.
 
-I focus on the technical layer of support — diagnosing API failures,
-reproducing system errors, and communicating findings to engineering in writing.
+## Focus
+
+- API debugging and failure analysis
+- Structured logging and error handling
+- Support workflows and incident response
 
 ## Projects
 
-- **FailTrace** — API failure simulation: timeouts, auth errors, 500s, rate limits with structured JSON logging
-- **TicketFlow** — REST API simulating ticket lifecycle, status transitions, and SLA tracking
-- **SupportDocs** — Production-style troubleshooting runbooks and bug report templates
+- **TicketFlow** — Ticketing & SLA system simulating support workflows
+- **SaaSEngine** — Backend engine for SaaS applications
+- **FailTrace** — API failure simulation and debugging system
 
-## Stack
+## Tech Stack
 
-Node.js · TypeScript · JavaScript · REST APIs · Git · Structured Logging
+Node.js · TypeScript · REST APIs · Logging · Error Handling
 
-## Languages
+## Approach
 
-Arabic · French · English · Italian
+I build systems that simulate real production issues to improve debugging, issue resolution, and communication between support and engineering.
