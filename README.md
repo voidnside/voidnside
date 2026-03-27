@@ -16,7 +16,7 @@ Technical Support Engineer with experience diagnosing API failures and analyzing
 
 ## Tech Stack
 
-Node.js · TypeScript · REST APIs · Logging · Error Handling
+Node.js · TypeScript · REST APIs · Debugging · Structured Logging · Error Handling
 
 ## Approach
 
